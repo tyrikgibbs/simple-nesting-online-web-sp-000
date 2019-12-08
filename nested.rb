@@ -84,7 +84,7 @@ def adding_matz
      }
 programmer_hash[:red_hopper] = "blue"
 
-programmer_hash[:red_hopper]
+return programmer_hash[:red_hopper]
 
 end
 
