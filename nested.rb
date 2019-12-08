@@ -82,7 +82,9 @@ def adding_matz
           :languages => ["C"]
         }
      }
+programmer_hash[:red_hopper] = "blue"
 
+programmer_hash[:red_hopper]
 
 end
 
